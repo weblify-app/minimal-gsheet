@@ -1,5 +1,5 @@
 {
-    "name": "gsheet-test",
+    "name": "gsheet",
     "compatibility_date": "2025-04-19",
     "assets": {
         "directory": "./dist"
