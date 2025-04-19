@@ -1,1 +1,14 @@
-
+{
+    "name": "javascript",
+    "version": "1.0.0",
+    "description": "Simple Data Fetch from Google Sheet.",
+    "scripts": {
+      "start": "vite",
+      "build": "pvite build"
+    },
+    "devDependencies": {
+      "vite": "^6.3.1"
+    },
+    "keywords": ["css", "javascript"]
+  }
+  
