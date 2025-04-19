@@ -4,7 +4,7 @@
     "description": "Simple Data Fetch from Google Sheet.",
     "scripts": {
       "start": "vite",
-      "build": "pvite build"
+      "build": "vite build"
     },
     "devDependencies": {
       "vite": "^6.3.1"
